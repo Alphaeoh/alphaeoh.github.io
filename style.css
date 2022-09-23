@@ -50,7 +50,7 @@ a{
   border: 0;
   height: 400px;
   width: 100%;
-  background-image: url("https://ik.imagekit.io/alphaeoh/banner_PGc3ssd6i.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663967473176");
+  background-image: url(https://ik.imagekit.io/alphaeoh/banner_PGc3ssd6i.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663967473176);
   background-attachment: fixed;
 
 }
@@ -61,7 +61,7 @@ a{
    margin: auto;
    width: 200px;
    height: 230px;
-   background-image: url("https://ik.imagekit.io/alphaeoh/logo_200_qdlF85WQJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663967473743");
+   background-image: url(https://ik.imagekit.io/alphaeoh/logo_200_qdlF85WQJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663967473743);
 
  }
 .bannerbox h1{
