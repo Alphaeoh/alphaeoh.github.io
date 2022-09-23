@@ -4,8 +4,8 @@
   --image-size: calc(var(--size)/var(--images-per-row));
 }
 @font-face {
-  font-family: Akashe1;
-  src: url("Akashi.ttf");
+  font-family: Akashi1;
+  src: url(Akashi.ttf);
 }
 
 body{
@@ -14,7 +14,7 @@ body{
   background-color: rgba(38, 38, 38, 1);
   margin: 0;
   border: 0;
-  font-family: Akashi;
+  font-family: Akashi1;
 }
 a{
   text-decoration: none;
