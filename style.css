@@ -3,7 +3,10 @@
   --images-per-row: 3;
   --image-size: calc(var(--size)/var(--images-per-row));
 }
-
+@font-face {
+  font-family: Akashe1;
+  src: url("Akashi.tff");
+}
 
 body{
   align-items: center;
